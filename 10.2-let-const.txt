@@ -1,7 +1,15 @@
+Change var PI = 3.14 into ES2015 version:
 const PI = 3.14;
 
 Quiz:
 1) Difference between var and let:
 var can be redeclared whereas let cannot. var can also be hoisted whereas let only exists in its block scope.
 
-2)
+2) Difference between var and const:
+The value of var can be changed or redeclared whereas const cannot. var can also be hoisted whereas const only exists in its block scope.
+
+3) Difference between let and const:
+The value of let can be changed whereas const cannot be. 
+
+4) What is hoisting?
+Hoisting allows a JS compiler brings a variable to the top in order to use an undefined variable before it is declared in the document.
