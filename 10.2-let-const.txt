@@ -1,0 +1,7 @@
+const PI = 3.14;
+
+Quiz:
+1) Difference between var and let:
+var can be redeclared whereas let cannot. var can also be hoisted whereas let only exists in its block scope.
+
+2)
